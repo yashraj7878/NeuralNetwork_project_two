@@ -4,7 +4,7 @@
 This repository contains scripts to train and deploy a neural network model using Python.
 
 ## Overview
-- **This project showcases the following:
+- **This project showcases the following:**
 
 Neural Network Architecture: Implementation of a simple or advanced neural network model using Keras.
 Data Preprocessing: Techniques for preparing data before feeding it into the model.
@@ -22,7 +22,8 @@ Usage Example: Example usage of the model for prediction on new data.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yashraj7878/NN_deploy.git
+   git clone https://github.com/yashraj7878/NeuralNetwork_project_two
+   .git
    cd NN_deploy
    
 ## Run the training pipeline:
